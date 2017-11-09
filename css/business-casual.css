@@ -7,7 +7,7 @@
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   margin: 2em;
-  background: url('../img/fondo4.jpg') no-repeat center center fixed;
+  background: url('../img/fonfo5.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -15,8 +15,8 @@ body {
 }
 
 div.tagline-upper.text-center{
-  font-family: Comic Sans MS, Comic Sans, cursive;
-  color: yellow !important;
+  font-family: 'Libre Baskerville', serif;
+  color: rgb(0, 0, 0) !important;
 }
 
 a.navbar-brand{
@@ -25,7 +25,7 @@ a.navbar-brand{
 
 
 a.nav-link{
-  color: yellow !important;
+  color: rgb(255, 255, 255) !important;
   font-size: 1rem;
 }
 
@@ -123,4 +123,6 @@ div.card{
   color: #D4AF37  ;
   margin-bottom: 10px;
   font-size: 13px;
+  height: 420px;
+
 } 

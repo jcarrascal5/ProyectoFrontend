@@ -12,8 +12,8 @@ $(document).ready(function(){
                 var html = '';
                 for (var i=0; i<data.results.length; i++){
                     html += '<div class="col-lg-6 col-md-6 mb-4" style="color: white">';
-                    html += '   <div class="card">';
-                    html += '       <div class="card-body">';
+                    html += '   <div class="card" style="height:200px">';
+                    html += '       <div class="card-body" >';
                     html += '           <h1>' + data.results[i].name+ '</h1>';
                     html += '           <i><strong>diametro: </strong>'+ data.results[i].diameter+'</i><br>';
                     html += '           <i><strong>clima: </strong>'+ data.results[i].climate+'</i><br>';
