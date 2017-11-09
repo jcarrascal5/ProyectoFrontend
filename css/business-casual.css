@@ -30,14 +30,14 @@ a.nav-link{
 }
 
 div.text-heading.text-muted.text-lg{
-  color: yellow !important;
+  color: rgb(0, 0, 0) !important;
   font-family: Comic Sans MS, Comic Sans, cursive;
   font-size: 1.5rem;
 }
 
 div.row text-center{
   color: yellow;
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: 'Libre Baskerville', serif;
 }
 
 h1, h2, h3, h4, h5, h6, .text-heading {
@@ -47,11 +47,12 @@ h1, h2, h3, h4, h5, h6, .text-heading {
 
 h1.my-2{
   font-size: 4rem;
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  color: rgb(0, 0, 0) !important;
+  font-family: 'Libre Baskerville', serif;
 }
 h1 {
   font-size: 1rem;
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: 'Libre Baskerville', serif;
 }
 
 
